@@ -11,6 +11,7 @@ This project contains:
 - JUnit 5 test suite
 - Maven build configuration
 - Jenkins pipeline with automated testing
+- 
 
 ## Repository
 
